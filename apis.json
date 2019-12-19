@@ -1,0 +1,91 @@
+{
+    "name": "iCharts",
+    "description": "Real-time business intelligence reporting and analytics for NetSuite and Google Cloud. iCharts BI is the native visual reporting application for NetSuite.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1074-icharts.jpg",
+    "tags": [
+        "api service provider",
+        "charts",
+        "graphs",
+        "have api",
+        "visualizations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/icharts\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "iCharts",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1074-icharts.jpg",
+            "humanURL": "http:\/\/www.icharts.net",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/icharts-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/icharts-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/icharts.net\/icharts\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.icharts.net\/chartchannel"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/chartchannel"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/icharts"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/icharts"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.icharts.net\/api"
+        },
+        {
+            "type": "Email",
+            "url": "partners@icharts.net"
+        },
+        {
+            "type": "Email",
+            "url": "billing@icharts.net"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/iCharts"
+        },
+        {
+            "type": "Integrations",
+            "url": "https:\/\/icharts.net\/product\/integrations"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/icharts.net\/product\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/iCharts"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.icharts.net"
+        }
+    ]
+}
